@@ -10,26 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior Software Developer & Computer Science Student
+role: Junior Software Engineer & Computer Science Student
 
 # Organizations/Affiliations
 organizations:
 - name: Delft University of Technology
-  url: "https://www.tudelft.nl/en/"
+  url: "https://www.tudelft.nl/en/about-tu-delft/facts-and-figures/rankings/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: An advocate of lifelong learning and holisitic self-development.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Leveraging technology to solve problems of scale and make a positive impact
+- Holistic self-development
+- Finances and Investments
 
 education:
   courses:
   - course: BsC in Computer Science & Engineering
     institution: Delft University of Technology
-    year: 2021
+    year: 2018-2021
+  - course: Bachelor of Business Administration(Interrupted)
+    institution: Hotelschool the Hague
+    year: 2016-2018
+  - course: Certificate in International Hotel and Tourism Operations
+    institution: Hospitality and Tourism Management Institute Switzerland
+    year: 2015-2016
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -61,6 +68,12 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Hi! I'm Gian Marco. I am half italian half hungarian by origin and I grew up in a small town in Hungary.
+I finished high school with many questions unanswered, therefore, I went on a journey of self-discovery, to see the world for myself,
+figure out what I want from my life and explore what I am truly capable of.
+Since then, I have lived in 4 countries, attended 3 educational institutions and worked in 4 companies in different roles.
+The experiences I have accumulated and books I've read made me realize, that the current educational system is flawed in many ways and has an abundance of inefficiencies.
+ 
+My aspiration is to revolutionize our educational system, such that individuals are better equipped to tackle the challenges of present and future.
+I imagine an educational system which promotes the growth mindset, teaches individuals how to embrace hardships and welcome them as opportunities for self-improvement.
+An educational system which places great emphasis on making students understand how learning certain subject will benefit them as individuals on the long term.

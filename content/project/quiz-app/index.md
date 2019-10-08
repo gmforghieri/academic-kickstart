@@ -1,9 +1,9 @@
 +++
-title = "GoGreen App"
+title = "Quiz App"
 draft = false
 
 # Project summary to display on homepage.
-summary = "GoGreen is a Java RESTful application helping you track and reduce your CO2 emissions with gamification aspects."
+summary = "A quiz app to get familiar with and practice various topics such as propositional and predicate logic. Coming Soon!"
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/gmforghieri/GoGreen-Application"

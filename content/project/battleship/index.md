@@ -1,5 +1,5 @@
 +++
-title = "Battleship Royale"
+title = "Battleship"
 draft = false
 
 # Project summary to display on homepage.
