@@ -7,8 +7,11 @@ image:
   caption: ''
 ---
 
-Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
+In this part I will write about the call to adventure which is about stepping out of the comfort zone,
+leaving the ordinary world behind and facing the unknown.
 
-**Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
+As mentioned in the previous post, already in my last year of high school I was greatly dissatisfied and
+felt that I am in a closed minded atmosphere which I needed to escape. Even though I did not really have an idea of where to continue,
+
 
 
