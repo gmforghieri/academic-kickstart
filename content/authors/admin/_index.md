@@ -68,10 +68,21 @@ user_groups:
 - Visitors
 ---
 
-Hi! I'm Gian Marco. I am a curious and rebellious individual constantly questioning the status quo and trying to find ways to better myself and make a positive impact in the world. I am a great believer in lifelong learning and self-development; for that reason, I wake up everyday with the intent to challenge myself, learn and expand my knowledge and limits.
-                    
-I finished high school with many questions unanswered, therefore, I went on a journey of self-discovery, to see the world for myself, figure out what I want from my life and explore what I am truly capable of. Since then, I have taken complete ownership of my life and finances, lived in 4 countries, attended 3 higher educational institutions and worked at 4 companies in different roles. The experiences I have accumulated and books I've read made me realize, that our society is flawed in many ways and has an abundance of inefficiencies.
-                    
-Having said that, over the years I grew increasingly dissatisfied with the state of the educational system, consequently I made it my personal vision to revolutionize our educational system, such that individuals are better equipped to tackle the challenges of present and future.
-                    
-I realize that this journey is going to take a lifetime and I am just at the very beginning. In order to fulfill such a vision utilizing technology is essential and to build something revolutionary strong fundamentals are needed, thus I am currently studying computer science & engineering and refining my programming skills by working as a full stack software developer.
+Hi! I'm Gian Marco.  
+  
+I am a curious and rebellious individual, I like constantly questioning the status quo and finding ways to better myself and make a positive impact in the world. I am a great believer in lifelong learning and self-development,  thus I spend my days with the intent to challenge myself by expanding my knowledge and limits in a holistic way.  
+
+I finished high school with many questions unanswered, therefore, I went on a journey of self-discovery, to see the world for myself, figure out what I want from my life and explore what I am truly capable of. Since then, I have taken complete ownership of my life and finances, lived in 4 countries, attended 3 higher educational institutions and worked at 4 companies in different roles. 
+
+The experiences I have accumulated and books I’ve read made me realize, that our society is flawed in many ways and has an abundance of inefficiencies. I am excited to be learning new things and work on problems that will help change that.  
+
+I am currently a 2nd year BSc student in computer science & engineering at TU Delft and also working as a junior full stack software engineer to further refine my programming skills.  
+
+I am looking for internship opportunities from 2020 summer onwards, in software development roles with special interest in the following areas:  
+
+  • revolutionizing education  
+  
+  • solving problems and creating economic value in the investment/algorithmic-trading/FinTech scene  
+  
+  • contributing to a large-scale software product which serves massive amounts of people worldwide
+
