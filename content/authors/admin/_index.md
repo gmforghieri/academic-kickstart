@@ -76,13 +76,4 @@ I finished high school with many questions unanswered, therefore, I went on a jo
 
 The experiences I have accumulated and books I’ve read made me realize, that our society is flawed in many ways and has an abundance of inefficiencies. I am excited to be learning new things and work on problems that will help change that.  
 
-I am currently a 2nd year BSc student in computer science & engineering at TU Delft and also working as a junior full stack software engineer to further refine my programming skills.  
-
-I am looking for internship opportunities from 2020 summer onwards, in software development roles with special interest in the following areas:  
-
-- revolutionizing education 
-  
-- solving problems and creating economic value in the investment/algorithmic-trading/FinTech scene  
-  
-- contributing to a large-scale software product which serves massive amounts of people worldwide
 
